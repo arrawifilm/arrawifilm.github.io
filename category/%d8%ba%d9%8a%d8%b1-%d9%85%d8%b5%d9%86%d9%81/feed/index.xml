@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>غير مصنف &#8211; Mégapage</title>
+	<atom:link href="https://arrawifilm.github.io/category/%D8%BA%D9%8A%D8%B1-%D9%85%D8%B5%D9%86%D9%81/feed/" rel="self" type="application/rss+xml" />
+	<link>https://arrawifilm.github.io</link>
+	<description>مكتبة الأدوات المدرسية أونلاين</description>
+	<lastBuildDate>Mon, 16 Aug 2021 08:01:47 +0000</lastBuildDate>
+	<language>ary</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>https://arrawifilm.github.io/wp-content/uploads/2021/08/Megapage_favicon-01-01.png</url>
+	<title>غير مصنف &#8211; Mégapage</title>
+	<link>https://arrawifilm.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>أهلاً بالعالم !</title>
+		<link>https://arrawifilm.github.io/2021/08/16/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/</link>
+					<comments>https://arrawifilm.github.io/2021/08/16/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/#comments</comments>
+		
+		<dc:creator><![CDATA[boukou]]></dc:creator>
+		<pubDate>Mon, 16 Aug 2021 08:01:47 +0000</pubDate>
+				<category><![CDATA[غير مصنف]]></category>
+		<guid isPermaLink="false">https://arrawifilm.github.io/?p=1</guid>
+
+					<description><![CDATA[مرحباً بك في ووردبريس. هذه مقالتك الأولى. حررها أو احذفها، ثم ابدأ النشر!]]></description>
+										<content:encoded><![CDATA[
+<p>مرحباً بك في ووردبريس. هذه مقالتك الأولى. حررها أو احذفها، ثم ابدأ النشر!
+ </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://arrawifilm.github.io/2021/08/16/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
